@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 -->
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=merko)
 
-
-
-
-Rafa-Flutter Rafa-Flutter Rafa-HTML Rafa-CSS Rafa-CSS Rafa-Java Rafa-Python Rafa-Csharp Rafa-Java
