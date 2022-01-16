@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=merko)
 
+![Image](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
