@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Welcome to my table.
+Hello World!
+
+I'm a software engineer from Miami Florida with over ten years of experience. 
 <!--
 **TheOpenSorcerer/TheOpenSorcerer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
