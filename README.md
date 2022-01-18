@@ -5,9 +5,10 @@ Hello World!
 I'm a software engineer from Miami Florida with over ten years of experience. 
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs"/>
 </div>
 
+Language Proficiency
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
