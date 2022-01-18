@@ -5,7 +5,7 @@ Hello World!
 I'm a software engineer from Miami Florida with over ten years of experience. 
 
 <div align="center">
-<img height="180em" src="(https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs"/>
 </div>
 
 <div style="display: inline_block"><br>
