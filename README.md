@@ -5,7 +5,7 @@ Hello World!
 I'm a software engineer from Miami Florida with over ten years of experience. 
 
 <div align="left-align">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs"/>
 </div>
 
 <strong>Language Proficiency</strong>
