@@ -25,6 +25,7 @@ I'm a software engineer from Miami Florida with over ten years of experience.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
 
 
