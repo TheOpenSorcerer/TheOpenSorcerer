@@ -6,7 +6,7 @@ I'm a software engineer from Miami Florida with over ten years of experience.
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=issues,contribs"/>
 </div>
 <div>
-  <br />
+  <br /><br />
   </div>
 <strong>Language Proficiency</strong>
 <div style="display: inline_block"><br>
