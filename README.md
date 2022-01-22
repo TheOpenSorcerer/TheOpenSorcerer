@@ -1,7 +1,9 @@
 #Hello World!
 
 I'm a software engineer from Miami Florida with over ten years of experience. 
-
+<div>
+  <br /><br />
+  </div>
 <div align="left-align">
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=TheOpenSorcerer&show_icons=true&theme=cobalt&hide=issues,contribs"/>
 </div>
