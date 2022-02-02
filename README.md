@@ -1,6 +1,6 @@
 #Hello World!
 
-I'm a software engineer and solutions developer from Miami Florida with over a decade of experience in both corporate and startup environments. 
+I'm a software engineer and solutions developer from Miami Florida with over a decade of experience in both corporate development and startup environments. 
 <div>
   <br /><br />
   </div>
