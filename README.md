@@ -1,6 +1,6 @@
 #Hello World!
 
-I'm a software engineer and solutions developer from Miami Florida with over ten years of experience in both corporate development and startup environments. I am an avid sports fan and Dungeons and Dragons enthusiast. 
+I'm a software engineer and solutions developer from Miami Florida with over ten years of experience in both corporate development and startup environments. I have a strong knoweldge base in Python, C#, Java and C++ languages. I am an avid sports fan and Dungeons and Dragons enthusiast. 
 
 💬 Ask me about ... Braves Baseball, Nets Basketball, Giants Football
 <div>
